@@ -1,0 +1,11 @@
+com/mycompany/moviesondemand/model/Movie.class
+com/mycompany/moviesondemand/mydatabase/Database.class
+com/mycompany/moviesondemand/resources/CustomerResource.class
+com/mycompany/moviesondemand/resources/AccountResource.class
+com/mycompany/moviesondemand/model/Customer.class
+com/mycompany/moviesondemand/model/Account.class
+com/mycompany/moviesondemand/service/MovieService.class
+com/mycompany/moviesondemand/service/CustomerService.class
+com/mycompany/moviesondemand/resources/MovieResource.class
+com/mycompany/moviesondemand/JAXRSConfiguration.class
+com/mycompany/moviesondemand/service/AccountService.class
